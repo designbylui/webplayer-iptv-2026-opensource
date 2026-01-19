@@ -1,0 +1,69 @@
+{
+    "app": {
+        "name": "ZzBox",
+        "title": "Player",
+        "version": "8.1",
+        "subtitle": "Streaming Premium",
+        "logo": "logo.png",
+        "favicon": "logo.png"
+    },
+    "theme": {
+        "primary": "#FF5500",
+        "primaryDark": "#cc4400",
+        "background": "#050505",
+        "surface": "#121212",
+        "surfaceLight": "#1a1a1a",
+        "text": "#ffffff",
+        "textMuted": "#888888"
+    },
+    "login": {
+        "showServerField": true,
+        "defaultServer": "",
+        "serverPlaceholder": "Servidor (ex: http://servidor.com)",
+        "usernamePlaceholder": "Usuário",
+        "passwordPlaceholder": "Senha",
+        "buttonText": "ENTRAR",
+        "loadingText": "CONECTANDO..."
+    },
+    "sections": {
+        "live": {
+            "enabled": true,
+            "name": "TV ao Vivo",
+            "icon": "tv"
+        },
+        "movies": {
+            "enabled": true,
+            "name": "Filmes",
+            "icon": "film"
+        },
+        "series": {
+            "enabled": true,
+            "name": "Séries",
+            "icon": "series"
+        }
+    },
+    "player": {
+        "autoplay": true,
+        "defaultVolume": 1,
+        "showLiveBadge": true,
+        "liveBadgeText": "AO VIVO"
+    },
+    "messages": {
+        "loading": "Carregando...",
+        "noContent": "Nenhum conteúdo encontrado",
+        "noCategories": "Nenhuma categoria encontrada",
+        "loginError": "Erro ao conectar",
+        "invalidCredentials": "Credenciais inválidas",
+        "connectionError": "Erro de conexão",
+        "playerError": "Erro ao reproduzir",
+        "retry": "Tentar Novamente",
+        "back": "Voltar",
+        "search": "Buscar...",
+        "logout": "Sair",
+        "expires": "Expira:"
+    },
+    "footer": {
+        "show": false,
+        "text": "© 2024 ZzBox Player"
+    }
+}
