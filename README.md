@@ -1,4 +1,4 @@
-# ZzBox Player - Static Version
+# WEBPLAYER - Xtream grátis - Static Version
 
 Versão simplificada e estática do ZzBox Player para deploy no GitHub Pages.
 
@@ -53,3 +53,4 @@ docs/
 - Alguns servidores Xtream Codes podem bloquear requisições CORS
 - Nesse caso, o player pode não funcionar diretamente do navegador
 - Para contornar isso, você pode usar uma extensão de CORS ou um proxy
+
